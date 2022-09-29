@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+.App::selection{
+  color: black;
+  background-color: greenyellow;
+}
 
 .App-logo {
   height: 40vmin;
